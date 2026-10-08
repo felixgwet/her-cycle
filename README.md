@@ -1,3 +1,5 @@
+![LunaFlow banner](banner.png)
+
 # LunaFlow
 
 A caring period & fertility tracker — built as a single-user progressive web app that runs entirely in the browser.
